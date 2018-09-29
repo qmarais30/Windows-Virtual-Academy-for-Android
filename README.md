@@ -1,2 +1,2 @@
-# Windows-Virtual-Academy-for-Android
-Windows Virtual Academy for android
+# Microsoft-Virtual-Academy-for-Android
+Microsoft Virtual Academy for android
